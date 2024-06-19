@@ -16,8 +16,8 @@ I am completing my associate's degree in Information Assurance/Security. My cert
 - **Technology**: Constantly exploring new tech, especially in the realms of cybersecurity and DIY electronics.
 
 ## Get In Touch
-- **Website**: [dkingcyber.github.io](http://dkingcyber.github.io)
+- **Website**: [dkingcyber](http://dkingcyber.github.io)
 - **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/devin-king-72278626b)
-- **Twitter**: [Twitter Handle](https://x.com/EvilNetworking)
+- **X**: [X Profile](https://x.com/EvilNetworking)
 
 Feel free to explore my projects and get in touch if you have any questions or collaborations in mind!

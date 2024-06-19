@@ -1,4 +1,4 @@
-# Welcome to DKingCyber's GitHub!
+# Welcome to Devin King's GitHub!
 
 ## About Me
 I'm a USMC Combat Engineer veteran and a father of two boys. Currently, I work as a Systems Technician, and I'm on a journey to advance my career as an information security (infosec) professional. 

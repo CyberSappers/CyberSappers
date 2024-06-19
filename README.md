@@ -5,8 +5,8 @@ I'm a USMC Combat Engineer veteran and a father of two boys. Currently, I work a
 
 ## Professional Background
 I am completing my associate's degree in Information Assurance/Security. My certifications include:
-- CompTIA Security+
 - CompTIA CySA+
+- CompTIA Security+
 - Information Security/Assurance certificate from Delgado Community College
 - Application Programming certificate from Delgado Community College
 - Automotive Technology II from Universal Technical Institute

@@ -15,9 +15,9 @@ I am completing my associate's degree in Information Assurance/Security. My cert
 - Automotive Technology II from Universal Technical Institute
 
 ## Current Goals
--CompTIA CASP+
--ISC2 CISSP
--TCM Security PNPT
+- CompTIA CASP+
+- ISC2 CISSP
+- TCM Security PNPT
 
 ## Hobbies and Interests
 - **Homesteading**: I enjoy managing my homestead with over 15 chickens alongside my family.

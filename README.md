@@ -4,12 +4,12 @@
 I'm a USMC Combat Engineer veteran, father of two boys, and a husband. Currently, I work as a Systems Technician, and I'm on a journey to advance my career as an information security (infosec) professional. 
 
 ## Professional Background
+- Delgado Community College Associate of Applied Science in Computer Information Technology
 - CompTIA CySA+
 - CompTIA Pentest+
 - CompTIA Security+
 - CompTIA Cloud+
 - CompTIA ITF+
-- Delgado Community College Associate of Applied Science in Computer Information Technology
 - Delgado Community College Information Security/Assurance Certificate
 - Delgado Community College Application Programming Certificate
 - Delgado Community College Cloud Computing Certificate

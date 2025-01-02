@@ -15,11 +15,6 @@ I'm a USMC Combat Engineer veteran, father of two boys, and a husband. Currently
 - Delgado Community College Cloud Computing Certificate
 - Universal Technical Institute Automotive Technology II  
 
-## Current Goals
-- CompTIA CASP+
-- ISC2 CISSP
-- TCM Security PNPT
-
 ## Hobbies and Interests
 - **Homesteading**: I enjoy managing my homestead with over 15 chickens alongside my family.
 - **Technology**: Constantly exploring new tech, especially in the realms of cybersecurity and DIY electronics.

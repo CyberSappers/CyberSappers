@@ -1,7 +1,7 @@
 # Welcome to Devin King's GitHub!
 
 ## About Me
-I'm a USMC Combat Engineer veteran, father of two boys, and a husband. Currently, I work as a Systems Technician, and I'm on a journey to advance my career as an information security (infosec) professional. 
+I'm a USMC Combat Engineer veteran, father of two boys, and a husband. Currently, I work as a Cybersecurity & Training Specialist, and I'm on a journey to advance my career as an information security (infosec) professional. 
 
 ## Professional Background
 - Delgado Community College Associate of Applied Science in Computer Information Technology

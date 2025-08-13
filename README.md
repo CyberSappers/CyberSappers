@@ -1,22 +1,21 @@
 # Welcome to my GitHub!
 
 ## About Me
-I'm a USMC Combat Engineer veteran, father of two boys, and a husband. Currently, I work as a Cybersecurity & Training Specialist, and I'm on a journey to advance my career as an information security (infosec) professional. 
+I'm a USMC Combat Engineer veteran, and father of two boys. Currently, I work as a Cybersecurity & Training Specialist, and I'm on a journey to advance my career as an information security (infosec) professional. 
 
 ## Professional Background
-- Delgado Community College Associate of Applied Science in Computer Information Technology
 - CompTIA CySA+
 - CompTIA Pentest+
 - CompTIA Security+
 - CompTIA Cloud+
 - CompTIA ITF+
+- Delgado Community College Associate of Applied Science in Computer Information Technology
 - Delgado Community College Information Security/Assurance Certificate
 - Delgado Community College Application Programming Certificate
 - Delgado Community College Cloud Computing Certificate
 - Universal Technical Institute Automotive Technology II  
 
 ## Hobbies and Interests
-- **Homesteading**: I enjoy managing my homestead with over 15 chickens alongside my family.
 - **Technology**: Constantly exploring new tech, especially in the realms of cybersecurity and DIY electronics.
 
 ## Get In Touch
